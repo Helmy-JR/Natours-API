@@ -58,4 +58,4 @@ Natours is a back-end project that simulates a tour booking platform, featuring 
 
 <hr>
 
-### If you interested you can check the [Natours API Documentation](https://node-production-69ff.up.railway.app/api-docs/#/) from here 📝💥.
+### If you interested you can check the [Natours API Documentation](https://natours-api-production-22be.up.railway.app/api-docs/) from here 📝💥.
