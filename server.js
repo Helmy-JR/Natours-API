@@ -18,7 +18,6 @@ const DB = process.env.DATABASE.replace(
 );
 
 mongoose.connect(DB).then(() => console.log(`DB connection successful!`));
-//.catch((err) => console.error('DB connection error:', err));
 
 // START SERVER
 const port = process.env.port || 3000;
@@ -33,4 +32,3 @@ process.on("unhandledRejection", (err) => {
     process.exit(1);
   });
 });
-
