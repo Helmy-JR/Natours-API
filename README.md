@@ -26,8 +26,8 @@ Natours is a back-end project that simulates a tour booking platform, featuring 
 ### User Profile:
 
 * Update options for username, photo, email, password, and other personal information.
-* Users categorized as regular users, guides, lead guides, or admins.
-* Default user type is regular upon sign-up.
+* Users categorized as regular `users`, `guides`, `lead guides`, or `admins`.
+* `Default` user type is regular upon sign-up.
 
 ### Tour:
 
@@ -37,10 +37,10 @@ Natours is a back-end project that simulates a tour booking platform, featuring 
 
 ### Reviews:
 
-* Writing reviews limited to regular users `who have booked tours`.
+* Writing reviews limited to `regular users` who have booked tours.
 * Review visibility to all users.
-* Editing and deleting of personal reviews by regular users.
-* Prevention of multiple reviews for the same tour by regular users.
+* `Editing` and `deleting` of personal reviews by regular users.
+* Prevention of multiple reviews for the same tour by regular `users`.
 * Review deletion capability for `admins`.
 
 <hr>
