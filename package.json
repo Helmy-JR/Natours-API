@@ -5,11 +5,11 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "startdev": "nodemon server.js",
-    "start:prod": "NODE_ENV=production nodemon server.js",
-    "start:dev": "NODE_ENV=development nodemon server.js",
-    "debug": "ndb server.js"
+    "start": "node index.js",
+    "startdev": "nodemon index.js",
+    "start:prod": "NODE_ENV=production nodemon index.js",
+    "start:dev": "NODE_ENV=development nodemon index.js",
+    "debug": "ndb index.js"
   },
   "author": "helmy",
   "license": "ISC",
